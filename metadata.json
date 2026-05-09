@@ -1,0 +1,6 @@
+{
+  "name": "Chicago Crime Tracker",
+  "description": "Real-time dashboard and map for tracking crime incidents in Chicago using Open Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
